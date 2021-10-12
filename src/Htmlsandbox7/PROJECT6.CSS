@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 30vw;
+    margin: 2rem;
+  }
+  
+  .header, .footer {
+    padding: 10px;
+    background-color: #784367;
+    color: white;
+  }
+  
+  .content {
+    flex-grow: 1;
+    padding: 10px;
+    background-color: #e6c037;
+  }
+  

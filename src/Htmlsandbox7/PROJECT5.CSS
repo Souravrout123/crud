@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+  }
+  
+  .item {
+    padding: 20vh 10vw;
+    align-self: center;
+    background-color: #784367;
+  }

@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
+    padding: 1rem;
+    gap: 1rem;
+  }
+  
+  .grid-item {
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    font-family: cursive;
+    color: #e6c037;
+    background-color: #784367;
+    text-align: center;
+  }
+  
